@@ -5,8 +5,8 @@
 -tuples in borrowed list are formatted as such (amount borrowed, day borrowed)
 -the input for scenario 2 in the problem would look as following:
 	credit_line([(500,0),(100,25)],[(200,15)])
--the default apr is 35%. This can be adjusted
--the defaul limit is $1000. This can be adjusted
+-the default apr is 35%. This can be adjusted.
+-the default limit is $1000. This can be adjusted.
 """
 
 
