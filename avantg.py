@@ -11,7 +11,6 @@
 
 
 def credit_line(borrow,pay=(0,0),apr=.35,limit=1000):
-
 	c=1
 	total=0
 	g=0
